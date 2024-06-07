@@ -1,5 +1,9 @@
 # Crowdsale (ICO)
 
+Purpose: A company seeking to raise money to create a blockchain service can launch an ICO to raise funds.
+
+Interested investors can buy into an initial coin offering to receive a new cryptocurrency issued by the company. This token may have some utility related to the product or service that the company is offering or represent a stake in the company or project.
+
 ## Technology Stack & Tools
 
 - Solidity (Writing Smart Contract)
