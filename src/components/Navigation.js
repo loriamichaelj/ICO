@@ -1,12 +1,10 @@
 import Navbar from "react-bootstrap/Navbar";
-import { Link } from "react-router-dom";
-
 import logo from "../logo.png";
 
 const Navigation = () => {
   return (
-    <Navbar>
-      <a href="#">
+    <Navbar className="pt-5">
+      <a href="/">
         <img
           src={logo}
           alt="logo"
