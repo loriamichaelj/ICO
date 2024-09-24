@@ -11,7 +11,7 @@ const Navigation = () => {
         height="40"
         className="d-inline-block align-top mx-3"
       />
-      <Navbar.Brand href="#">CIRCA COIN</Navbar.Brand>
+      <Navbar.Brand href="#">CRCA</Navbar.Brand>
     </Navbar>
   );
 };
