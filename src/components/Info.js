@@ -6,7 +6,7 @@ const Info = (props) => {
         <strong>Account:</strong> {props.account}
       </p>
       <p>
-        <strong>Tokens Ownded:</strong> {props.accountBalance}
+        <strong>Tokens Owned:</strong> {props.accountBalance}
       </p>
     </div>
   );
